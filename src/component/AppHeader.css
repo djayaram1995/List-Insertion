@@ -1,0 +1,37 @@
+.borderBottom {
+    padding-top: 15px;
+    border-bottom: 2px solid black;
+    font-weight: bolder;
+}
+.borderBottomTitle {
+    padding-top: 15px;
+    border-bottom: 2px solid black;
+    font-weight: bolder;
+    margin-bottom: 15px;
+}
+.container {
+    border: 1px solid black;
+    width: 500px;
+}
+
+.f-right {
+    float: right;
+}
+
+.delete {
+    margin-left: 10px;
+}
+
+.minHeight {
+    min-height: 200px;
+}
+
+.d-inline {
+    display: inline-block !important;
+}
+
+.borderBottomList {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: 1px solid grey;
+}
